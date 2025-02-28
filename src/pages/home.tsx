@@ -5,6 +5,7 @@ export default function HomePage() {
   return (
     <Container>
       <Typography variant="h4">Welcome to the Home Page!</Typography>
+      
     </Container>
   );
 }
